@@ -4,7 +4,7 @@
 
     - cargo contract build --release
 
-2.  Upload .contract file of app1 to blockchain network either `Contract Ui` or `polkadot.js`
+2.  Upload .contract file of app1 to blockchain network either `[Contract Ui]()` or `polkadot.js`
 3.  If you upload app2 smart contract with the following `constructor` code,
     then while calling `app_flip` function from app2 contract cause issue which is listed below:
 
